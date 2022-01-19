@@ -1,0 +1,30 @@
+{
+    "name": "cafeteria",
+    "version": "1.0.0",
+    "description": "Aprendiendo SASS, Gulp, CSS Grid",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Luis Delgado",
+    "license": "ISC",
+    "dependencies": {
+        "gulp-imagemin": "^7.1.0"
+    },
+    "devDependencies": {
+        "autoprefixer": "^10.3.4",
+        "cssnano": "^5.0.8",
+        "gulp": "^4.0.2",
+        "gulp-avif": "^1.0.1",
+        "gulp-postcss": "^9.0.1",
+        "gulp-sass": "^5.0.0",
+        "gulp-sourcemaps": "^3.0.0",
+        "gulp-webp": "^4.0.1",
+        "postcss": "^8.3.6",
+        "sass": "^1.39.0"
+    },
+    "browserslist": [
+        "last 1 version",
+        "> 1%"
+    ]
+}
